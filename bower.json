@@ -1,0 +1,17 @@
+{
+    "name": "terminaldosis-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/terminaldosis-bower.git"
+    },
+    "description": "Terminal Dosis font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
